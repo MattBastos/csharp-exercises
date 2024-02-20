@@ -8,9 +8,18 @@ namespace HelloWorld
         static void Main()
         {
             Console.WriteLine("Hello World!");
-            Console.WriteLine("-----------------------");
+            Console.WriteLine("=======================");
 
-            BasicTypes.PrintBasicTypes();
+            BasicTypes.PrintBasicNumberType();
+            Console.WriteLine("=======================");
+
+            BasicTypes.PrintBasicBooleanType();
+            Console.WriteLine("=======================");
+
+            BasicTypes.PrintBasicStringType();
+            Console.WriteLine("=======================");
+
+            BasicTypes.PrintBasicObjectType();
         }
     }
 }
