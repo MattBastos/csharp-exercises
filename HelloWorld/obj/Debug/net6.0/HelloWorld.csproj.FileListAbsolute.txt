@@ -1,0 +1,15 @@
+/home/matthews/Exercises/csharp-exercises/HelloWorld/bin/Debug/net6.0/HelloWorld
+/home/matthews/Exercises/csharp-exercises/HelloWorld/bin/Debug/net6.0/HelloWorld.deps.json
+/home/matthews/Exercises/csharp-exercises/HelloWorld/bin/Debug/net6.0/HelloWorld.runtimeconfig.json
+/home/matthews/Exercises/csharp-exercises/HelloWorld/bin/Debug/net6.0/HelloWorld.dll
+/home/matthews/Exercises/csharp-exercises/HelloWorld/bin/Debug/net6.0/ref/HelloWorld.dll
+/home/matthews/Exercises/csharp-exercises/HelloWorld/bin/Debug/net6.0/HelloWorld.pdb
+/home/matthews/Exercises/csharp-exercises/HelloWorld/obj/Debug/net6.0/HelloWorld.csproj.AssemblyReference.cache
+/home/matthews/Exercises/csharp-exercises/HelloWorld/obj/Debug/net6.0/HelloWorld.GeneratedMSBuildEditorConfig.editorconfig
+/home/matthews/Exercises/csharp-exercises/HelloWorld/obj/Debug/net6.0/HelloWorld.AssemblyInfoInputs.cache
+/home/matthews/Exercises/csharp-exercises/HelloWorld/obj/Debug/net6.0/HelloWorld.AssemblyInfo.cs
+/home/matthews/Exercises/csharp-exercises/HelloWorld/obj/Debug/net6.0/HelloWorld.csproj.CoreCompileInputs.cache
+/home/matthews/Exercises/csharp-exercises/HelloWorld/obj/Debug/net6.0/HelloWorld.dll
+/home/matthews/Exercises/csharp-exercises/HelloWorld/obj/Debug/net6.0/ref/HelloWorld.dll
+/home/matthews/Exercises/csharp-exercises/HelloWorld/obj/Debug/net6.0/HelloWorld.pdb
+/home/matthews/Exercises/csharp-exercises/HelloWorld/obj/Debug/net6.0/HelloWorld.genruntimeconfig.cache
