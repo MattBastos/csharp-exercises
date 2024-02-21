@@ -1,0 +1,15 @@
+/home/matthews/Exercises/csharp-exercises/InputOutput/bin/Debug/net6.0/InputOutput
+/home/matthews/Exercises/csharp-exercises/InputOutput/bin/Debug/net6.0/InputOutput.deps.json
+/home/matthews/Exercises/csharp-exercises/InputOutput/bin/Debug/net6.0/InputOutput.runtimeconfig.json
+/home/matthews/Exercises/csharp-exercises/InputOutput/bin/Debug/net6.0/InputOutput.dll
+/home/matthews/Exercises/csharp-exercises/InputOutput/bin/Debug/net6.0/ref/InputOutput.dll
+/home/matthews/Exercises/csharp-exercises/InputOutput/bin/Debug/net6.0/InputOutput.pdb
+/home/matthews/Exercises/csharp-exercises/InputOutput/obj/Debug/net6.0/InputOutput.csproj.AssemblyReference.cache
+/home/matthews/Exercises/csharp-exercises/InputOutput/obj/Debug/net6.0/InputOutput.GeneratedMSBuildEditorConfig.editorconfig
+/home/matthews/Exercises/csharp-exercises/InputOutput/obj/Debug/net6.0/InputOutput.AssemblyInfoInputs.cache
+/home/matthews/Exercises/csharp-exercises/InputOutput/obj/Debug/net6.0/InputOutput.AssemblyInfo.cs
+/home/matthews/Exercises/csharp-exercises/InputOutput/obj/Debug/net6.0/InputOutput.csproj.CoreCompileInputs.cache
+/home/matthews/Exercises/csharp-exercises/InputOutput/obj/Debug/net6.0/InputOutput.dll
+/home/matthews/Exercises/csharp-exercises/InputOutput/obj/Debug/net6.0/ref/InputOutput.dll
+/home/matthews/Exercises/csharp-exercises/InputOutput/obj/Debug/net6.0/InputOutput.pdb
+/home/matthews/Exercises/csharp-exercises/InputOutput/obj/Debug/net6.0/InputOutput.genruntimeconfig.cache
