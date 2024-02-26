@@ -15,6 +15,9 @@ namespace InputOutput
 
             Output.PrintConcatenatedString();
             Console.WriteLine("=======================");
+
+            Output.PrintConvertedValues();
+            Console.WriteLine("=======================");
         }
     }
 }

@@ -30,5 +30,29 @@ namespace InputOutput
             Console.WriteLine("Concatenation:");
             Console.WriteLine(name + " tem " + age + " e tem saldo igual a " + balance.ToString("F2") + " reais.");
         }
+
+        public static void PrintConvertedValues()
+        {
+            float floatBalance = 10.5f;
+            double doubleBalance = floatBalance;
+            int intBalance;
+
+            Console.WriteLine("Implicit Conversion:");
+            Console.WriteLine($"Double value receives Float value: {doubleBalance}");
+            Console.WriteLine("-----------------------");
+
+            floatBalance = (float)doubleBalance;
+            intBalance = (int)doubleBalance;
+            Console.WriteLine("Casting:");
+            Console.WriteLine($"Float value receives Double value: {floatBalance}");
+            Console.WriteLine($"Int value receives Double value: {intBalance}");
+            Console.WriteLine("-----------------------");
+
+            int a = 5;
+            int b = 2;
+            double result = (double) a / b;
+            Console.WriteLine("Casting sometimes is necessary in arithmetics operations:");
+            Console.WriteLine($"{a} / {b} = {result}");
+        }
     }
 }
