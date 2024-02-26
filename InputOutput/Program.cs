@@ -1,4 +1,6 @@
-﻿namespace InputOutput
+﻿using System.Globalization;
+
+namespace InputOutput
 {
     class Program
     {
@@ -6,10 +8,13 @@
         {
             Console.Write("InputOutput");
             Console.WriteLine(":");
+            Console.WriteLine("=======================");
 
-            double balance = 10.3578;
+            Output.PrintFormattedData();
+            Console.WriteLine("=======================");
 
-            Console.WriteLine(balance.ToString("F2"));
+            Output.PrintConcatenatedString();
+            Console.WriteLine("=======================");
         }
     }
 }
