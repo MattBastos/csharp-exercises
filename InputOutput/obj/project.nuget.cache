@@ -1,8 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "GBMi8Dzo2dOsH4yQ+HvVtTlAkjqE3YiOgd2ZqTHUWYZgS9KLXxYlcfcwkbueBsEXVnKFr3fg8k0JrwKdcZiaUQ==",
+  "dgSpecHash": "W68R4vFU6OCu8TRt2Ri0NhIjJwTzfJeH2uQGTkHQ6rrWkDJcRwMlwgBmSC7enH0UutdyBlo03sccSyuz+nROTQ==",
   "success": true,
-  "projectFilePath": "/home/matthews/Exercises/csharp-exercises/InputOutput/InputOutput.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "C:\\Users\\Matthews\\Exercises\\csharp-exercises\\InputOutput\\InputOutput.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Matthews\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.27\\microsoft.netcore.app.ref.6.0.27.nupkg.sha512",
+    "C:\\Users\\Matthews\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.27\\microsoft.windowsdesktop.app.ref.6.0.27.nupkg.sha512",
+    "C:\\Users\\Matthews\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.27\\microsoft.aspnetcore.app.ref.6.0.27.nupkg.sha512",
+    "C:\\Users\\Matthews\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.27\\microsoft.netcore.app.host.win-x64.6.0.27.nupkg.sha512"
+  ],
   "logs": []
 }
