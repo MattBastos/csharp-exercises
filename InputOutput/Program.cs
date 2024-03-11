@@ -1,6 +1,4 @@
-﻿using System.Globalization;
-
-namespace InputOutput
+﻿namespace InputOutput
 {
     class Program
     {
